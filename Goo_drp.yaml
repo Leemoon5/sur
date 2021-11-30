@@ -1,52 +1,48 @@
-payload:
-  # > Kaggle
-  - DOMAIN-SUFFIX,kaggle.com
-  - DOMAIN-SUFFIX,kaggleusercontent.com
-  - DOMAIN-SUFFIX,kaggle.net
-  # > Google Drive
-  - PROCESS-NAME,com.google.android.apps.docs
-  - DOMAIN-SUFFIX,docs.google.com
-  - DOMAIN-SUFFIX,drive.google.com
-  - DOMAIN-SUFFIX,googledrive.com
-  - DOMAIN-SUFFIX,googleusercontent.com
-  - DOMAIN,www.googleapis.com
-  # > Googleapis
-  - DOMAIN-SUFFIX,googleapis.cn
-  - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-SUFFIX,clientservices.googleapis.com
-  - DOMAIN-SUFFIX,fonts.googleapis.com
-  - DOMAIN-SUFFIX,imasdk.googleapis.com
-  - DOMAIN-SUFFIX,khm.googleapis.com
-  - DOMAIN-SUFFIX,khm0.googleapis.com
-  - DOMAIN-SUFFIX,khm1.googleapis.com
-  - DOMAIN-SUFFIX,khm2.googleapis.com
-  - DOMAIN-SUFFIX,khm3.googleapis.com
-  - DOMAIN-SUFFIX,khmdb.googleapis.com
-  - DOMAIN-SUFFIX,safebrowsing.googleapis.com
-  - DOMAIN-SUFFIX,update.googleapis.com
-  # > Google
-  - DOMAIN,dl.google.com
-  - DOMAIN-SUFFIX,googletraveladservices.com
-  - DOMAIN-SUFFIX,googlezip.net
-  # > Dropbox
-  - PROCESS-NAME,com.dropbox.android
-  - DOMAIN-SUFFIX,dropbox.com
-  - DOMAIN-SUFFIX,dropboxapi.com
-  - DOMAIN-SUFFIX,dropboxusercontent.com
-  - DOMAIN-SUFFIX,dropboxbusiness.com
-  - DOMAIN-SUFFIX,dropboxforums.com
-  - DOMAIN-SUFFIX,dropboxforum.com
-  - DOMAIN-SUFFIX,dropboxinsiders.com
-  - DOMAIN-SUFFIX,dropboxmail.com
-  - DOMAIN-SUFFIX,dropboxpartners.com
-  - DOMAIN-SUFFIX,dropboxstatic.com
-  - DOMAIN-SUFFIX,dropbox.zendesk.com
-  - DOMAIN-SUFFIX,getdropbox.com
-  - DOMAIN-SUFFIX,dropbox-dns.com
-  - DOMAIN-SUFFIX,dropbox.tech
-  - DOMAIN-SUFFIX,dropboxcaptcha.com
-  - DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com
-  # > Box
-  - PROCESS-NAME,com.box.android
-  - DOMAIN-SUFFIX,box.com
-  - DOMAIN-SUFFIX,box.net
+# > Kaggle
+- DOMAIN-SUFFIX,kaggle.com
+- DOMAIN-SUFFIX,kaggleusercontent.com
+- DOMAIN-SUFFIX,kaggle.net
+# > Google Drive
+- DOMAIN-SUFFIX,docs.google.com
+- DOMAIN-SUFFIX,drive.google.com
+- DOMAIN-SUFFIX,googledrive.com
+- DOMAIN-SUFFIX,googleusercontent.com
+- DOMAIN,www.googleapis.com
+# > Googleapis
+- DOMAIN-SUFFIX,googleapis.cn
+- DOMAIN-SUFFIX,googleapis.com
+- DOMAIN-SUFFIX,clientservices.googleapis.com
+- DOMAIN-SUFFIX,fonts.googleapis.com
+- DOMAIN-SUFFIX,imasdk.googleapis.com
+- DOMAIN-SUFFIX,khm.googleapis.com
+- DOMAIN-SUFFIX,khm0.googleapis.com
+- DOMAIN-SUFFIX,khm1.googleapis.com
+- DOMAIN-SUFFIX,khm2.googleapis.com
+- DOMAIN-SUFFIX,khm3.googleapis.com
+- DOMAIN-SUFFIX,khmdb.googleapis.com
+- DOMAIN-SUFFIX,safebrowsing.googleapis.com
+- DOMAIN-SUFFIX,update.googleapis.com
+# > Google
+- DOMAIN,dl.google.com
+- DOMAIN-SUFFIX,googletraveladservices.com
+- DOMAIN-SUFFIX,googlezip.net
+# > Dropbox
+- DOMAIN-SUFFIX,dropbox.com
+- DOMAIN-SUFFIX,dropboxapi.com
+- DOMAIN-SUFFIX,dropboxusercontent.com
+- DOMAIN-SUFFIX,dropboxbusiness.com
+- DOMAIN-SUFFIX,dropboxforums.com
+- DOMAIN-SUFFIX,dropboxforum.com
+- DOMAIN-SUFFIX,dropboxinsiders.com
+- DOMAIN-SUFFIX,dropboxmail.com
+- DOMAIN-SUFFIX,dropboxpartners.com
+- DOMAIN-SUFFIX,dropboxstatic.com
+- DOMAIN-SUFFIX,dropbox.zendesk.com
+- DOMAIN-SUFFIX,getdropbox.com
+- DOMAIN-SUFFIX,dropbox-dns.com
+- DOMAIN-SUFFIX,dropbox.tech
+- DOMAIN-SUFFIX,dropboxcaptcha.com
+- DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com
+# > Box
+- DOMAIN-SUFFIX,box.com
+- DOMAIN-SUFFIX,box.net
