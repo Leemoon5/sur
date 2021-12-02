@@ -1,0 +1,7 @@
+# Theme Store
+PROCESS-NAME,com.samsung.android.themestore
+PROCESS-NAME,com.samsung.android.themecenter
+# Glaxy Store
+PROCESS-NAME,com.sec.android.app.samsungapps
+# Kwyboard
+PROCESS-NAME,com.samsung.android.honeyboard

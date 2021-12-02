@@ -1,0 +1,72 @@
+# MiHoYo
+PROCESS-NAME,com.miHoYo.GenshinImpact
+DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,mob.com
+IP-CIDR,8.211.128.0/18
+
+PROCESS-NAME,com.mihoyo.hoyolab
+PROCESS-NAME,com.miHoYo.bh3global
+
+# Pokemon unite
+PROCESS-NAME,jp.pokemon.pokemonunite
+DOMAIN-SUFFIX,pokemon-unitepgame.com
+
+# GWENT: The Witcher Card Game
+PROCESS-NAME,com.cdprojektred
+PROCESS-NAME,com.cdprojektred.gwent
+
+# Brawl Stars
+PROCESS-NAME,com.supercell.brawlstars
+DOMAIN-SUFFIX,brawlstarsgame.com
+DOMAIN-SUFFIX,brawlstars.com
+DOMAIN-SUFFIX,brawlstars.com
+DOMAIN-SUFFIX,brawlstarsgame.com
+
+# Steam
+DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,humblebundle.com
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamdb.info
+
+# Epic
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,epicgames.dev
+DOMAIN-SUFFIX,helpshift.com
+DOMAIN-SUFFIX,paragon.com
+DOMAIN-SUFFIX,unrealengine.com
+
+# Blizzard
+PROCESS-NAME,com.blizzard.wtcg.hearthstone
+PROCESS-NAME,com.blizzard.messenger
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN,blizzard.nefficient.co.kr
+DOMAIN,blzddist1-a.akamaihd.net
+DOMAIN,blzddistkr1-a.akamaihd.net
+DOMAIN,bnetproduct-a.akamaihd.net
+
+# Angry Birds 2
+PROCESS-NAME,com.rovio.baba
+# Tacticool - 5v5 shooter
+PROCESS-NAME,com.panzerdog.tacticool
+# Teamfight Tactics: League of Legends Strategy Game
+PROCESS-NAME,com.riotgames.league.teamfighttactics
+# League of Legends: Wild Rift
+PROCESS-NAME,com.riotgames.league.wildrift
+# Plants vs. Zombies
+PROCESS-NAME,com.ea.game.pvzfree_row
+PROCESS-NAME,com.ea.game.pvz2_na
+# > Discord
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+# > superevil
+DOMAIN-SUFFIX,superevil.net
+DOMAIN-SUFFIX,superevilmegacorp.net
