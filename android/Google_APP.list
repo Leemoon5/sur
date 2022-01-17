@@ -5,6 +5,8 @@ PROCESS-NAME,com.google.android.gsf
 PROCESS-NAME,com.google.android.gsf.login
 # Google Play services
 PROCESS-NAME,com.google.android.gms
+# > Google Cloudconsole
+PROCESS-NAME,com.google.android.apps.cloudconsole
 # > Playstore
 PROCESS-NAME,com.android.vending
 PROCESS-NAME,com.google.android.inputmethod.latin
